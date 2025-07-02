@@ -1,12 +1,76 @@
 # personalnurul
 Deskripsi
 Studi kasus ini bertujuan untuk memenuhi tugas di akhir semester 2 sebagai ulangan akhir semester mata kuliah dasar pmrograman dan juga membangun website personal dinamis milik Nurul Pauziah. Website ini memungkinkan pemilik mengelola konten artikel, gallery, dan informasi pribadi secara mandiri melalui halaman admin. Aplikasi dikembangkan menggunakan PHP dan MySql, dengan tampilan sederhana berwarna red yang konsisten dan feminim.
-Tampilan halaman didesain menarik, termasuk penambahan backround gambar pada halaman login dan beranda untuk memberikan kesan vidusl yang lebih hidup.
-Website di bagi menjadi 2 bagian utama :
-1. Halaman publik-dapat di akses oleh semua pengunjung
-2. Halaman Admin-hanya dapat diakses setelah login, di gunakan untuk mengelola konten.
-Fitur-fitur Website
-# personalnurul![Screenshot (23)](https://github.com/user-attachments/assets/440523a0-e8df-4afd-b309-79b11de8cc53)
+
+Struktur Website
+
+Website dibagi menjadi 2 bagian utama:
+
+Halaman Publik – dapat diakses oleh semua pengunjung.
+Halaman Admin – hanya dapat diakses setelah login, digunakan untuk mengelola konten.
+
+Fitur-Fitur Website
+
+🔐 Login & Logout
+
+• Admin dapat masuk menggunakan username dan password.
+
+• Tersedia background khusus di halaman login agar tampil lebih menarik.
+
+• Logout mengakhiri sesi dengan aman.
+
+📰 Manajemen Artikel
+
+• Tambah, edit, dan hapus artikel.
+
+Artikel dilengkapi dengan:
+• Gambar pendukung di atas judul artikel.
+
+• Kolom komentar di bawah artikel, memungkinkan pengunjung menanggapi.
+
+Artikel terbaru ditampilkan di halaman beranda dengan tata letak dua kolom:
+• Kolom kiri menampilkan isi artikel terbaru.
+
+• Kolom kanan menampilkan daftar judul artikel.
+
+🖼️ Manajemen Galeri
+
+• Admin bisa:
+
+• Upload gambar + judul.
+
+• Edit judul atau mengganti gambar.
+
+• Hapus gambar.
+
+• Tampilan galeri publik ditata grid agar responsif.
+
+👤 Halaman About
+
+• Admin dapat menambahkan dan mengedit deskripsi pribadi.
+
+• Tampil di halaman about publik secara utuh dan mudah dibaca.
+
+Fitur Tambahan
+
+• Background Gambar pada halaman Login dan Beranda.
+
+• Komentar Pengunjung di setiap artikel.
+
+• Gambar Pendukung dalam artikel untuk memperjelas isi tulisan.
+
+Teknologi yang Digunakan
+
+• Bahasa Pemrograman: PHP
+
+• Database: MySQL
+
+• Frontend: HTML & CSS
+
+• Server Lokal: XAMPP
+
+• Editor: Visual Studio Code
+[Screenshot (23)](https://github.com/user-attachments/assets/440523a0-e8df-4afd-b309-79b11de8cc53)
 Halaman ini merupakan bagian dari admin website dengan judul “About Me” di bagian atas berlatarkan merah gelap dan tulisan putih tebal. Di sisi kiri terdapat menu navigasi vertikal berjudul MENU dengan pilihan Beranda, Kelola Artikel, Kelola Gallery, About (aktif dengan teks tebal berwarna merah), dan Logout. Pada bagian konten utama terdapat judul “Tentang Nurul” serta tombol merah “+ Tambah Data” di sebelah kanan atas. Di bawahnya terdapat kotak berisi deskripsi diri yang menjelaskan bahwa pemilik website bernama Nurul Pauziah, seorang yang suka belajar hal-hal baru dan selalu berusaha memberikan yang terbaik dalam setiap kesempatan. Ia memiliki hobi menyanyi karena merasa lebih percaya diri dan dapat mengekspresikan perasaan dengan baik. Nurul lahir dan besar di Subang, menempuh pendidikan di SDN Sukahayu, SMPN 1 Jalancagak, SMAN 1 Jalancagak, dan saat ini melanjutkan kuliah di Universitas Subang. Baginya, pendidikan sangat penting untuk menggapai cita-cita dan membanggakan orang tua. Di bawah deskripsi terdapat link Edit dan Hapus berwarna merah untuk mengelola data.
 # personalnurul![Screenshot (25)](https://github.com/user-attachments/assets/fb193aea-ad1c-4221-ade1-b47acf903ca8)
 Halaman About Me | NurulPauziah menampilkan informasi pribadi pemilik website dengan tampilan sederhana dan rapi. Di bagian atas terdapat header berwarna merah gelap dengan judul putih tebal “About Me | NurulPauziah” serta menu navigasi horizontal berwarna merah yang terdiri dari Artikel, Gallery, About, dan Login. Pada bagian konten utama, terdapat judul “Tentang Saya” berwarna merah diikuti teks deskripsi diri.
