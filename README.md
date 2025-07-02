@@ -71,7 +71,7 @@ Teknologi yang Digunakan
 
 • Editor: Visual Studio Code
 
-# [Screenshot (23)](https://github.com/user-attachments/assets/0d709ca9-cea1-4d48-826c-9698d3bb5561)
+# (https://github.com/user-attachments/assets/0d709ca9-cea1-4d48-826c-9698d3bb5561)
 eenshot (23)](https://github.com/user-attachments/assets/440523a0-e8df-4afd-b309-79b11de8cc53)
 Halaman ini merupakan bagian dari admin website dengan judul “About Me” di bagian atas berlatarkan merah gelap dan tulisan putih tebal. Di sisi kiri terdapat menu navigasi vertikal berjudul MENU dengan pilihan Beranda, Kelola Artikel, Kelola Gallery, About (aktif dengan teks tebal berwarna merah), dan Logout. Pada bagian konten utama terdapat judul “Tentang Nurul” serta tombol merah “+ Tambah Data” di sebelah kanan atas. Di bawahnya terdapat kotak berisi deskripsi diri yang menjelaskan bahwa pemilik website bernama Nurul Pauziah, seorang yang suka belajar hal-hal baru dan selalu berusaha memberikan yang terbaik dalam setiap kesempatan. Ia memiliki hobi menyanyi karena merasa lebih percaya diri dan dapat mengekspresikan perasaan dengan baik. Nurul lahir dan besar di Subang, menempuh pendidikan di SDN Sukahayu, SMPN 1 Jalancagak, SMAN 1 Jalancagak, dan saat ini melanjutkan kuliah di Universitas Subang. Baginya, pendidikan sangat penting untuk menggapai cita-cita dan membanggakan orang tua. Di bawah deskripsi terdapat link Edit dan Hapus berwarna merah untuk mengelola data.
 # personalnurul[Screenshot (25)](https://github.com/user-attachments/assets/fb193aea-ad1c-4221-ade1-b47acf903ca8)
